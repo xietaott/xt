@@ -6,4 +6,5 @@ import Bean.Bean;
 
 public interface ServletDao {
 	public List<Bean>lists();
+	12323
 }
